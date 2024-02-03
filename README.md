@@ -1,4 +1,6 @@
 Commands:
+Requirement: python3.10
+
 1. INSTALL llama-cpp-python PACKAGE
    > pip install --upgrade --quiet  llama-cpp-python
    
