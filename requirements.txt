@@ -1,0 +1,4 @@
+transformers
+ctransformers
+llama-cpp-python
+langchains
